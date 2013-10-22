@@ -6,7 +6,7 @@ puts "Hi #{name}!"
 
 puts "How old are you #{name}?"
 
-age = gets.chomp.to_i # convert string to float
+age = gets.chomp.to_i # convert string to integer and not float
 
 year = 2013-age
 
