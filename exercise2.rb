@@ -23,7 +23,7 @@ puts "Your total plus tip of #{tip_percent} is #{total}"
 
 
 
-# Problem 2
+# Problem 2 (Add string with an integer)
 
 puts "Enter a String"
 string = gets.chomp
@@ -37,7 +37,7 @@ puts result
 
 
 
-# Problem 3
+# Problem 3 (string interpolation)
 
 math = 45628 * 7839
 
@@ -46,7 +46,7 @@ puts "45628 multiplied by 7839 is equal to #{math}"
 
 
 
-# Problem 4
+# Problem 4 (what is the value of the following expression)
 
 result = (true && false) || (false && true) || !(false && false)
 
